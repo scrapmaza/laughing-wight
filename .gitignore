@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+class program1
+{
+public static void main(String [] args)
+{
+System.out.println("hi this is prince bisht");
+}
+}
